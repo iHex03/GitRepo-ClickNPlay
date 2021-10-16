@@ -1,1 +1,1 @@
-Cor Principal: #6a43b3;
+Cor Principal: #6610f2;
