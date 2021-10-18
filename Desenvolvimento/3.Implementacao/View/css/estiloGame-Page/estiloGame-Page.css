@@ -2,9 +2,34 @@
 
 /*Desculpa pelo trabalho!! */
 
-#conteudo{
-    height: 180vh;
-    background-color: #6a43b3;
-    background-image: url('../../img/cs1.6-Page/bg_cs.jpg');
-    background-repeat: no-repeat;
+body
+{
+    background-color: #6610f2;
+}
+
+.backgroundGame
+{
+    background-color: #41118a;
+}
+
+.jogoTitulo
+{
+    font-size: 48px;
+    color: lightgrey;
+}
+
+.carrossel
+{
+    width: 60vh;
+}
+
+.text-underline-hover 
+{
+    color: lightgray;
+    text-decoration: none;
+}
+.text-underline-hover:hover 
+{
+    color: lightgray;
+    text-decoration: underline;
 }
