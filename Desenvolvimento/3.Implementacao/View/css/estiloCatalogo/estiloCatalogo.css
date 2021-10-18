@@ -3,8 +3,29 @@
 /* Desculpa pelo trabalho!! */
 
 #conteudo{
-    background-color: #6a43b3;
-    
+    background-color: #6610f2;
+}
+
+.backgroundPrimario
+{
+    background-color: #41118a;
+}
+
+.carousel-caption
+{
+    text-shadow: 2px 2px 2px black;
+}
+
+
+ .fileiraJogos
+{
+    margin-left: 170px;
+}
+
+.card img
+{
+    width: 300px;
+    aspect-ratio: 2;
 }
 
 .titulos {
