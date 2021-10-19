@@ -7,20 +7,10 @@ body
     background-color: #6610f2;
 }
 
-.backgroundGame
-{
-    background-color: #41118a;
-}
-
 .jogoTitulo
 {
     font-size: 48px;
     color: lightgrey;
-}
-
-.carrossel
-{
-    width: 60vh;
 }
 
 .text-underline-hover 

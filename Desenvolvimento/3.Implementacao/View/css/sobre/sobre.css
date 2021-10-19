@@ -27,7 +27,7 @@ section > h2 {
 
 /* titulo-principal */
 #sobre-nos {
-      background-color: rgb(48, 28, 139);
+      background-image: url('../../img/index/index-Image.jpg');
       height: 60vh;
 }
 
