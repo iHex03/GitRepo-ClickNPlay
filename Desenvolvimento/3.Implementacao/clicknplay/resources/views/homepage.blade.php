@@ -4,7 +4,7 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-sm-8 col-md-8 col-lg-8 conteudo-1 pb-5 pt-5">   
-            <img src="/img/index/index-Image.jpg" alt="">
+            <img src="img/index/index-Image.jpg" alt="">
         </div>
 
         <div class="col-sm-4 col-md-4 col-lg-4 conteudo-1 pb-5 pt-5">   
