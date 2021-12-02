@@ -1,7 +1,7 @@
 @extends('templates.pagina-template')
 @section('titulo', 'ClickNPlay')
 
-<x-app-layout>
+{{-- <x-app-layout>
     <x-slot name="header">
 
     </x-slot>
@@ -16,8 +16,8 @@
             </div>
         </div>
     </div>
-</x-app-layout>
+</x-app-layout> --}}
 
-{{-- @section('conteudo')
+@section('conteudo')
     <h1>Logado</h1>
-@endsection --}}
+@endsection
